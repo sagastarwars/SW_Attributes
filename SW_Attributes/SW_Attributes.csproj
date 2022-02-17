@@ -34,6 +34,9 @@
     <Reference Include="SW_Atribute_shablon">
       <HintPath>..\..\SW_Atribute_shablon\SW_Atribute_shablon\bin\Release\SW_Atribute_shablon.dll</HintPath>
     </Reference>
+    <Reference Include="SW_Attribute_manager">
+      <HintPath>..\..\SW_Attribute_manager\SW_Attribute_manager\bin\Release\SW_Attribute_manager.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
